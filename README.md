@@ -67,8 +67,6 @@ Insight Stream solves this by organizing news into clear categories and fetching
 
 ---
 
-## 📸 Screenshots
-*(Add your project screenshots here for better presentation)*
 
 ---
 
